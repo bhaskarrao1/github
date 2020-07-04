@@ -1,5 +1,0 @@
-
- world ");
-    printf(" Good Day ");
-       }
-
